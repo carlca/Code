@@ -1,0 +1,585 @@
+{
+    "openedPathsList": {
+        "workspaces": [
+            "/Users/carlca/Library/Application Support/Code",
+            "/Users/carlca/Library/Application Support/Code",
+            "/Users/carlca/code/go/src/github.com/carlca/bigdata",
+            {
+                "id": "f6e1353d7078621af61990924e9676ea",
+                "configPath": "/Users/carlca/code/go/src/github.com/carlca/carlca.code-workspace"
+            },
+            "/Users/carlca/code/go/src/github.com/carlca/bigdata/postgresqltest",
+            {
+                "id": "cc456791eda87a63a4cd3e671ee4d3e8",
+                "configPath": "/Users/carlca/code/go/src/github.com/carlca/carlca copy.code-workspace"
+            },
+            "/Users/carlca",
+            "/Users/carlca/code/go/src/github.com/carlca/utils",
+            "/Users/carlca/hugosite",
+            "/Users/carlca/code/go/src/github.com/carlca/bigdata/sqlorm",
+            "/Users/carlca/code/go/src/github.com/ChimeraCoder/anaconda",
+            {
+                "id": "b43a099fb42489574cb667e4832e49f8",
+                "configPath": "/Users/carlca/code/go/src/github.com/carlca/carlca-workspace.code-workspace"
+            },
+            "/Users/carlca/code/go/src/github.com/timest/goscan/src",
+            "/Users/carlca/code/go/src/gitlab.com/hackebrot/tweets",
+            "/Users/carlca/code/go/src/github.com/carlca/alfred",
+            "/Users/carlca/code/go/src/github.com/carlca/gotwitter",
+            "/Users/carlca/code/python/twittertest",
+            "/Users/carlca/code/go/src/github.com/carlca/twitter",
+            "/Users/carlca/code/dotnet/hwapp",
+            "/Users/carlca/code/fpc/codepreview",
+            "/Users/carlca/code/rust/tutorial",
+            "/Users/carlca/code/go/src/github.com/carlca/golog",
+            "/Users/carlca/code/fpc/caide/methodgroup",
+            "/Users/carlca/code/fpc/webfreak"
+        ],
+        "files": [
+            "/Users/carlca/.zprezto/runcoms/zpreztorc",
+            "/Users/carlca/.zshrc",
+            "/Users/carlca/.vscode/extensions/lukehoban.go-0.6.69/out/src/debugAdapter/goDebug.js",
+            "/Users/carlca/.vscode/extensions/johnpapa.winteriscoming-0.4.7/themes/WinterIsComing-color-theme.json",
+            "/Users/carlca/.vscode/extensions/Tyriar.vscode-terminal-here-0.0.5/out/src/extension.js",
+            "/Users/carlca/Library/Application Support/Code/User/snippets/go.json",
+            "/Users/carlca/code/go/src/github.com/carlca/gotwitter/main.go",
+            "/Users/carlca/.gotwitter/config.json",
+            "/Users/carlca/code/go/src/github.com/pkg/errors/readme.md",
+            "/Users/carlca/.golog",
+            "/Users/carlca/.gotwit",
+            "/Users/carlca/code/go/src/github.com/carlca/nongittest/testjson.go",
+            "/Users/carlca/code/dotnet/hwapp/Program.cs",
+            "/Users/carlca/code/delphi7/caLibrary/caReg.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caUtils.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caFastStrings.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caFastFuncs.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caDir.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caDict.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caDiagram.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caCSV.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caConsole.pas",
+            "/Users/carlca/code/fpc/calibrary/caauto.pas",
+            "/Users/carlca/code/fpc/calibrary/cabasedataset.pas",
+            "/Users/carlca/code/fpc/calibrary/cachisquared.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caChiSquared.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caButtons.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caBaseDataset.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caArrays.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caAppConfig.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caAppBar.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caActionsReg.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caActions.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caActionMgrForm.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caActionMgrDsgn.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caActionMgr.pas",
+            "/Users/carlca/code/fpc/calibrary/catextstream.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caTranslate.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caTextStream.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caTextStore.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caTest.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caTestRCS.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caStructures.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caSizeMovePanel.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caSizeMove.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caMemory.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caMemMapImageDsgn.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caMemMapImage.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caMatrixDataset.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caMarkup.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caLocalizer.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caIntf.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caFrame.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caForms.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caFormInitializer.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caFormHook.pas",
+            "/Developer/lazarus/components/synedit/syneditmarkupfoldcoloring.pas",
+            "/Users/carlca/code/fpc/TestOpenAL/testopenal.lpi",
+            "/Users/carlca/code/fpc/TestOpenAL/testopenal.lpr",
+            "/Users/carlca/Downloads/Go-0.6.63.vsix",
+            "/Users/carlca/code/go/src/github.com/raphamorim/go-rainbow/test/main.go",
+            "/Users/carlca/code/go/src/github.com/raphamorim/go-rainbow/test.go",
+            "/Users/carlca/Downloads/transparent_custom_control/form_main.pas",
+            "/Users/carlca/code/fpc/calibrary/casizemovepanel.pas",
+            "/Users/carlca/code/delphi7/caLibrary/caCompPalette.pas",
+            "/Developer/lazarus/lcl/include/shape.inc",
+            "/Users/carlca/code/go/src/github.com/mingrammer/commonregex/test/main.go",
+            "/Users/carlca/code/rust/tutorial/helloworld.rs",
+            "/Users/carlca/code/go/src/github.com/kataras/golog/_examples/override-level-prefix/main.go",
+            "/Users/carlca/code/go/src/github.com/kataras/golog/_examples/basic/main.go",
+            "/Users/carlca/code/go/src/github.com/kataras/golog/level.go",
+            "/Users/carlca/code/go/src/github.com/carlca/golog/_examples/basic/main.go",
+            "/Users/carlca/code/go/src/github.com/carlca/golog/golog.go",
+            "/Users/carlca/code/fpc/codepreview/colorconfig.json",
+            "/Users/carlca/code/go/src/github.com/davecheney/xattr/xattr-example/main.go",
+            "/Users/carlca/Code/fpc/caIDE/methodgroup/methodgroup.lpi",
+            "/Users/carlca/Code/go/src/github.com/corywalker/expreduce/expreduce.go",
+            "/Users/carlca/.vscode/extensions/Wosi.omnipascal-0.14.0/package.json",
+            "/Users/carlca/Code/fpc/caIDE/methodgroup/methodgroup.lpr",
+            "/Users/carlca/Code/go/src/github.com/carlca/types/nodes/nodes.go",
+            "/Users/carlca/Code/go/src/github.com/corywalker/expreduce/example/calc.go",
+            "/Users/carlca/Code/go/src/github.com/corywalker/expreduce/expreduce/blank.go",
+            "/Users/carlca/Code/fpc/caIDE/methodgroup/camethodgroup.pas",
+            "/Developer/lazarus/components/codetools/examples/changeparamlist.lpr",
+            "/Developer/lazarus/components/codetools/examples/completeabstractmethods.lpr",
+            "/Developer/lazarus/components/codetools/examples/autoindent.lpi"
+        ]
+    },
+    "telemetry.machineId": "36ec910d688acd007eb110425c1ec45c8aae321d3479aff6e48c95ef59ba9530",
+    "lastKnownKeybindings": {
+        "workbench.action.openGlobalSettings": {
+            "id": "workbench.action.openGlobalSettings",
+            "label": "⌘,",
+            "isNative": false
+        },
+        "workbench.action.openGlobalKeybindings": {
+            "id": "workbench.action.openGlobalKeybindings",
+            "label": "⌘K ⌘S",
+            "isNative": false
+        },
+        "workbench.extensions.action.showRecommendedKeymapExtensions": {
+            "id": "workbench.extensions.action.showRecommendedKeymapExtensions",
+            "label": "⌘K ⌘M",
+            "isNative": false
+        },
+        "workbench.action.selectTheme": {
+            "id": "workbench.action.selectTheme",
+            "label": "⌘K ⌘T",
+            "isNative": false
+        },
+        "workbench.action.quit": {
+            "id": "workbench.action.quit",
+            "label": "Cmd+Q",
+            "isNative": true
+        },
+        "workbench.action.files.newUntitledFile": {
+            "id": "workbench.action.files.newUntitledFile",
+            "label": "Cmd+N",
+            "isNative": true
+        },
+        "workbench.action.files.openFileFolder": {
+            "id": "workbench.action.files.openFileFolder",
+            "label": "Cmd+O",
+            "isNative": true
+        },
+        "workbench.action.reopenClosedEditor": {
+            "id": "workbench.action.reopenClosedEditor",
+            "label": "Shift+Cmd+T",
+            "isNative": true
+        },
+        "workbench.action.openRecent": {
+            "id": "workbench.action.openRecent",
+            "label": "Ctrl+R",
+            "isNative": true
+        },
+        "workbench.action.files.save": {
+            "id": "workbench.action.files.save",
+            "label": "Cmd+S",
+            "isNative": true
+        },
+        "workbench.action.files.saveAs": {
+            "id": "workbench.action.files.saveAs",
+            "label": "Shift+Cmd+S",
+            "isNative": true
+        },
+        "workbench.action.files.saveAll": {
+            "id": "workbench.action.files.saveAll",
+            "label": "Alt+Cmd+S",
+            "isNative": true
+        },
+        "workbench.action.newWindow": {
+            "id": "workbench.action.newWindow",
+            "label": "Shift+Cmd+N",
+            "isNative": true
+        },
+        "workbench.action.closeWindow": {
+            "id": "workbench.action.closeWindow",
+            "label": "Cmd+W",
+            "isNative": true
+        },
+        "workbench.action.closeFolder": {
+            "id": "workbench.action.closeFolder",
+            "label": "⌘K F",
+            "isNative": false
+        },
+        "workbench.action.closeActiveEditor": {
+            "id": "workbench.action.closeActiveEditor",
+            "label": "Cmd+W",
+            "isNative": true
+        },
+        "undo": {
+            "id": "undo",
+            "label": "Cmd+Z",
+            "isNative": true
+        },
+        "redo": {
+            "id": "redo",
+            "label": "Shift+Cmd+Z",
+            "isNative": true
+        },
+        "editor.action.clipboardCutAction": {
+            "id": "editor.action.clipboardCutAction",
+            "label": "Cmd+X",
+            "isNative": true
+        },
+        "editor.action.clipboardCopyAction": {
+            "id": "editor.action.clipboardCopyAction",
+            "label": "Cmd+C",
+            "isNative": true
+        },
+        "editor.action.clipboardPasteAction": {
+            "id": "editor.action.clipboardPasteAction",
+            "label": "Cmd+V",
+            "isNative": true
+        },
+        "actions.find": {
+            "id": "actions.find",
+            "label": "Cmd+F",
+            "isNative": true
+        },
+        "editor.action.startFindReplaceAction": {
+            "id": "editor.action.startFindReplaceAction",
+            "label": "Alt+Cmd+F",
+            "isNative": true
+        },
+        "workbench.action.findInFiles": {
+            "id": "workbench.action.findInFiles",
+            "label": "Shift+Cmd+F",
+            "isNative": true
+        },
+        "workbench.action.replaceInFiles": {
+            "id": "workbench.action.replaceInFiles",
+            "label": "Shift+Cmd+H",
+            "isNative": true
+        },
+        "editor.emmet.action.expandAbbreviation": {
+            "id": "editor.emmet.action.expandAbbreviation",
+            "label": "Tab",
+            "isNative": true
+        },
+        "editor.action.commentLine": {
+            "id": "editor.action.commentLine",
+            "label": "⌘/",
+            "isNative": false
+        },
+        "editor.action.blockComment": {
+            "id": "editor.action.blockComment",
+            "label": "Shift+Alt+A",
+            "isNative": true
+        },
+        "editor.action.insertCursorAbove": {
+            "id": "editor.action.insertCursorAbove",
+            "label": "Alt+Cmd+Up",
+            "isNative": true
+        },
+        "editor.action.insertCursorBelow": {
+            "id": "editor.action.insertCursorBelow",
+            "label": "Alt+Cmd+Down",
+            "isNative": true
+        },
+        "editor.action.insertCursorAtEndOfEachLineSelected": {
+            "id": "editor.action.insertCursorAtEndOfEachLineSelected",
+            "label": "Shift+Alt+I",
+            "isNative": true
+        },
+        "editor.action.addSelectionToNextFindMatch": {
+            "id": "editor.action.addSelectionToNextFindMatch",
+            "label": "Cmd+D",
+            "isNative": true
+        },
+        "editor.action.selectHighlights": {
+            "id": "editor.action.selectHighlights",
+            "label": "Shift+Cmd+L",
+            "isNative": true
+        },
+        "editor.action.copyLinesUpAction": {
+            "id": "editor.action.copyLinesUpAction",
+            "label": "Shift+Alt+Up",
+            "isNative": true
+        },
+        "editor.action.copyLinesDownAction": {
+            "id": "editor.action.copyLinesDownAction",
+            "label": "Shift+Alt+Down",
+            "isNative": true
+        },
+        "editor.action.moveLinesUpAction": {
+            "id": "editor.action.moveLinesUpAction",
+            "label": "Alt+Up",
+            "isNative": true
+        },
+        "editor.action.moveLinesDownAction": {
+            "id": "editor.action.moveLinesDownAction",
+            "label": "Alt+Down",
+            "isNative": true
+        },
+        "editor.action.selectAll": {
+            "id": "editor.action.selectAll",
+            "label": "Cmd+A",
+            "isNative": true
+        },
+        "editor.action.smartSelect.grow": {
+            "id": "editor.action.smartSelect.grow",
+            "label": "Ctrl+Shift+Cmd+Right",
+            "isNative": true
+        },
+        "editor.action.smartSelect.shrink": {
+            "id": "editor.action.smartSelect.shrink",
+            "label": "Ctrl+Shift+Cmd+Left",
+            "isNative": true
+        },
+        "workbench.view.explorer": {
+            "id": "workbench.view.explorer",
+            "label": "Shift+Cmd+E",
+            "isNative": true
+        },
+        "workbench.view.search": {
+            "id": "workbench.view.search",
+            "label": "Shift+Cmd+F",
+            "isNative": true
+        },
+        "workbench.view.scm": {
+            "id": "workbench.view.scm",
+            "label": "Ctrl+Shift+G",
+            "isNative": true
+        },
+        "workbench.view.debug": {
+            "id": "workbench.view.debug",
+            "label": "Shift+Cmd+D",
+            "isNative": true
+        },
+        "workbench.view.extensions": {
+            "id": "workbench.view.extensions",
+            "label": "Shift+Cmd+X",
+            "isNative": true
+        },
+        "workbench.action.output.toggleOutput": {
+            "id": "workbench.action.output.toggleOutput",
+            "label": "Shift+Cmd+U",
+            "isNative": true
+        },
+        "workbench.debug.action.toggleRepl": {
+            "id": "workbench.debug.action.toggleRepl",
+            "label": "Shift+Cmd+Y",
+            "isNative": true
+        },
+        "workbench.actions.view.problems": {
+            "id": "workbench.actions.view.problems",
+            "label": "Shift+Cmd+M",
+            "isNative": true
+        },
+        "workbench.action.showCommands": {
+            "id": "workbench.action.showCommands",
+            "label": "Shift+Cmd+P",
+            "isNative": true
+        },
+        "workbench.action.toggleFullScreen": {
+            "id": "workbench.action.toggleFullScreen",
+            "label": "Ctrl+Cmd+F",
+            "isNative": true
+        },
+        "workbench.action.toggleZenMode": {
+            "id": "workbench.action.toggleZenMode",
+            "label": "⌘K Z",
+            "isNative": false
+        },
+        "workbench.action.splitEditor": {
+            "id": "workbench.action.splitEditor",
+            "label": "⌘\\",
+            "isNative": false
+        },
+        "workbench.action.toggleEditorGroupLayout": {
+            "id": "workbench.action.toggleEditorGroupLayout",
+            "label": "Alt+Cmd+0",
+            "isNative": true
+        },
+        "workbench.action.toggleSidebarVisibility": {
+            "id": "workbench.action.toggleSidebarVisibility",
+            "label": "Cmd+B",
+            "isNative": true
+        },
+        "workbench.action.togglePanel": {
+            "id": "workbench.action.togglePanel",
+            "label": "Cmd+J",
+            "isNative": true
+        },
+        "editor.action.toggleWordWrap": {
+            "id": "editor.action.toggleWordWrap",
+            "label": "Alt+Z",
+            "isNative": true
+        },
+        "workbench.action.zoomIn": {
+            "id": "workbench.action.zoomIn",
+            "label": "⌘=",
+            "isNative": false
+        },
+        "workbench.action.zoomOut": {
+            "id": "workbench.action.zoomOut",
+            "label": "⌘-",
+            "isNative": false
+        },
+        "workbench.action.zoomReset": {
+            "id": "workbench.action.zoomReset",
+            "label": "⌘NumPad0",
+            "isNative": false
+        },
+        "workbench.action.navigateBack": {
+            "id": "workbench.action.navigateBack",
+            "label": "⌃-",
+            "isNative": false
+        },
+        "workbench.action.navigateForward": {
+            "id": "workbench.action.navigateForward",
+            "label": "⌃⇧-",
+            "isNative": false
+        },
+        "workbench.action.nextEditor": {
+            "id": "workbench.action.nextEditor",
+            "label": "Alt+Cmd+Right",
+            "isNative": true
+        },
+        "workbench.action.previousEditor": {
+            "id": "workbench.action.previousEditor",
+            "label": "Alt+Cmd+Left",
+            "isNative": true
+        },
+        "workbench.action.openNextRecentlyUsedEditorInGroup": {
+            "id": "workbench.action.openNextRecentlyUsedEditorInGroup",
+            "label": "Ctrl+Tab",
+            "isNative": true
+        },
+        "workbench.action.openPreviousRecentlyUsedEditorInGroup": {
+            "id": "workbench.action.openPreviousRecentlyUsedEditorInGroup",
+            "label": "Ctrl+Shift+Tab",
+            "isNative": true
+        },
+        "workbench.action.focusFirstEditorGroup": {
+            "id": "workbench.action.focusFirstEditorGroup",
+            "label": "Cmd+1",
+            "isNative": true
+        },
+        "workbench.action.focusSecondEditorGroup": {
+            "id": "workbench.action.focusSecondEditorGroup",
+            "label": "Cmd+2",
+            "isNative": true
+        },
+        "workbench.action.focusThirdEditorGroup": {
+            "id": "workbench.action.focusThirdEditorGroup",
+            "label": "Cmd+3",
+            "isNative": true
+        },
+        "workbench.action.focusNextGroup": {
+            "id": "workbench.action.focusNextGroup",
+            "label": "⌘K ⌘→",
+            "isNative": false
+        },
+        "workbench.action.focusPreviousGroup": {
+            "id": "workbench.action.focusPreviousGroup",
+            "label": "⌘K ⌘←",
+            "isNative": false
+        },
+        "workbench.action.quickOpen": {
+            "id": "workbench.action.quickOpen",
+            "label": "Cmd+P",
+            "isNative": true
+        },
+        "workbench.action.gotoSymbol": {
+            "id": "workbench.action.gotoSymbol",
+            "label": "Shift+Cmd+O",
+            "isNative": true
+        },
+        "workbench.action.showAllSymbols": {
+            "id": "workbench.action.showAllSymbols",
+            "label": "Cmd+T",
+            "isNative": true
+        },
+        "editor.action.goToDeclaration": {
+            "id": "editor.action.goToDeclaration",
+            "label": "F12",
+            "isNative": true
+        },
+        "editor.action.goToImplementation": {
+            "id": "editor.action.goToImplementation",
+            "label": "Cmd+F12",
+            "isNative": true
+        },
+        "workbench.action.gotoLine": {
+            "id": "workbench.action.gotoLine",
+            "label": "Ctrl+G",
+            "isNative": true
+        },
+        "workbench.action.debug.start": {
+            "id": "workbench.action.debug.start",
+            "label": "F5",
+            "isNative": true
+        },
+        "workbench.action.debug.run": {
+            "id": "workbench.action.debug.run",
+            "label": "Ctrl+F5",
+            "isNative": true
+        },
+        "workbench.action.debug.stop": {
+            "id": "workbench.action.debug.stop",
+            "label": "Shift+F5",
+            "isNative": true
+        },
+        "workbench.action.debug.restart": {
+            "id": "workbench.action.debug.restart",
+            "label": "Shift+Cmd+F5",
+            "isNative": true
+        },
+        "workbench.action.debug.stepOver": {
+            "id": "workbench.action.debug.stepOver",
+            "label": "F10",
+            "isNative": true
+        },
+        "workbench.action.debug.stepInto": {
+            "id": "workbench.action.debug.stepInto",
+            "label": "F11",
+            "isNative": true
+        },
+        "workbench.action.debug.stepOut": {
+            "id": "workbench.action.debug.stepOut",
+            "label": "Shift+F11",
+            "isNative": true
+        },
+        "workbench.action.debug.continue": {
+            "id": "workbench.action.debug.continue",
+            "label": "F5",
+            "isNative": true
+        },
+        "editor.debug.action.toggleColumnBreakpoint": {
+            "id": "editor.debug.action.toggleColumnBreakpoint",
+            "label": "Shift+F9",
+            "isNative": true
+        },
+        "workbench.action.switchWindow": {
+            "id": "workbench.action.switchWindow",
+            "label": "Ctrl+W",
+            "isNative": true
+        },
+        "workbench.action.tasks.build": {
+            "id": "workbench.action.tasks.build",
+            "label": "Shift+Cmd+B",
+            "isNative": true
+        }
+    },
+    "theme": "vs-dark johnpapa-winteriscoming-themes-WinterIsComing-dark-color-theme-json",
+    "themeBackground": "#282822",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderPath": "/Users/carlca/Library/Application Support/Code",
+            "backupPath": "/Users/carlca/Library/Application Support/Code/Backups/f2390f8e1c896a55ff71d00e064359f0",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1080
+            }
+        }
+    },
+    "pickerWorkingDir": "/Users/carlca/code/go/src/github.com/carlca",
+    "macOSAppIconRefresh": true,
+    "macOSAppIconRefresh2": true,
+    "macOSAppIconRefresh3": true
+}

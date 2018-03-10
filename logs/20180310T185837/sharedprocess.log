@@ -1,0 +1,38 @@
+[2018-03-10 18:58:44.302] [sharedprocess] [info] main {"machineId":"36ec910d688acd007eb110425c1ec45c8aae321d3479aff6e48c95ef59ba9530"}
+[2018-03-10 18:58:45.566] [sharedprocess] [info] Scanned user extensions: 29
+[2018-03-10 18:58:45.941] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 18:58:47.144] [sharedprocess] [info] Scanned user extensions: 29
+[2018-03-10 18:58:47.234] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 18:58:47.235] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 18:58:47.343] [sharedprocess] [info] Scanned user extensions: 29
+[2018-03-10 18:58:47.816] [sharedprocess] [info] Scanned user extensions: 29
+[2018-03-10 18:58:50.593] [sharedprocess] [info] Scanned user extensions: 29
+[2018-03-10 18:58:51.194] [sharedprocess] [info] Scanned user extensions: 29
+[2018-03-10 18:58:51.208] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 18:58:51.215] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 18:58:51.268] [sharedprocess] [info] Installing extension: base16-generator
+[2018-03-10 18:58:51.304] [sharedprocess] [info] Scanned user extensions: 29
+[2018-03-10 18:58:51.431] [sharedprocess] [info] Scanned user extensions: 29
+[2018-03-10 18:58:53.466] [sharedprocess] [info] Downloaded extension: base16-generator
+[2018-03-10 18:58:53.989] [sharedprocess] [info] Extracted extension to /Users/carlca/.vscode/extensions/golf1052.base16-generator-1.5.0: golf1052.base16-generator-1.5.0
+[2018-03-10 18:58:54.204] [sharedprocess] [info] Updated metadata of the extension: golf1052.base16-generator-1.5.0
+[2018-03-10 18:58:54.204] [sharedprocess] [info] Extensions installed successfully: golf1052.base16-generator
+[2018-03-10 18:58:54.382] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 18:58:54.513] [sharedprocess] [info] Scanned user extensions: 29
+[2018-03-10 18:59:24.320] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-03-10 19:00:37.501] [sharedprocess] [info] Scanned user extensions: 29
+[2018-03-10 19:00:37.502] [sharedprocess] [info] Uninstalling extension: Shan.code-settings-sync-2.9.0
+[2018-03-10 19:00:37.502] [sharedprocess] [info] Requesting for confirmation to uninstall extension Shan.code-settings-sync-2.9.0
+[2018-03-10 19:00:37.502] [sharedprocess] [info] Routing choice request to the client window:1
+[2018-03-10 19:00:40.265] [sharedprocess] [info] Successfully uninstalled extension: Shan.code-settings-sync-2.9.0
+[2018-03-10 19:00:41.104] [sharedprocess] [info] Scanned user extensions: 28
+[2018-03-10 19:00:41.128] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 19:00:49.454] [sharedprocess] [info] Scanned user extensions: 28
+[2018-03-10 19:00:49.492] [sharedprocess] [info] Scanned user extensions: 28
+[2018-03-10 19:00:49.519] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 19:00:49.528] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 19:00:49.529] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 19:00:49.555] [sharedprocess] [info] Scanned user extensions: 28
+[2018-03-10 19:00:49.613] [sharedprocess] [info] Scanned user extensions: 28
+[2018-03-10 19:00:49.730] [sharedprocess] [info] Scanned user extensions: 28
+[2018-03-10 19:00:52.904] [sharedprocess] [info] Scanned user extensions: 28

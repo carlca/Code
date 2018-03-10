@@ -1,0 +1,40 @@
+Looking for git in: /usr/local/bin/git
+Using git 2.13.0 from /usr/local/bin/git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /Users/carlca/Library/Application Support/Code
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name --abbrev-ref master@{u}
+> git rev-list --left-right master...origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name --abbrev-ref master@{u}
+> git rev-list --left-right master...origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name --abbrev-ref master@{u}
+> git rev-list --left-right master...origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name --abbrev-ref master@{u}
+> git rev-list --left-right master...origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name --abbrev-ref master@{u}
+> git rev-list --left-right master...origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
